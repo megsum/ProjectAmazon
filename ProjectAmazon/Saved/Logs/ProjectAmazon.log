@@ -1,0 +1,810 @@
+﻿Log file open, 01/21/20 23:08:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectAmazon
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.262970
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.070s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=MegSum12 -epicuserid=5a05b78c2155453184a5f9e417d8b2d1 -epiclocale=en-US
+LogInit: Base Directory: F:/Programs/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Engine.ini]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Engine.ini]
+[2020.01.22-06.08.24:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Engine.ini]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Engine.ini]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.22-06.08.24:797][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.22-06.08.24:798][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.22-06.08.24:798][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.22-06.08.24:798][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.01.22-06.08.24:798][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.22-06.08.24:798][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.22-06.08.24:798][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.01.22-06.08.24:798][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.22-06.08.24:798][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.22-06.08.24:798][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.22-06.08.24:798][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.22-06.08.24:798][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Engine.ini]
+[2020.01.22-06.08.24:798][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Engine.ini]
+[2020.01.22-06.08.24:811][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.22-06.08.24:812][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.22-06.08.24:813][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.22-06.08.24:814][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.22-06.08.24:814][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.22-06.08.24:814][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.22-06.08.24:814][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.22-06.08.24:814][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.22-06.08.24:814][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:814][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.22-06.08.24:814][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.22-06.08.24:814][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.22-06.08.24:814][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.22-06.08.24:834][  0]LogHAL: Display: Platform has ~ 16 GB [16982474752 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.01.22-06.08.24:834][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.22-06.08.24:834][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.22-06.08.24:834][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.22-06.08.24:835][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.22-06.08.24:835][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Config/Windows/Engine.ini]
+[2020.01.22-06.08.24:835][  0]LogInit: Computer: DESKTOP-1L5AIHN
+[2020.01.22-06.08.24:835][  0]LogInit: User: Megan
+[2020.01.22-06.08.24:835][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.22-06.08.24:835][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.22-06.08.24:835][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.01.22-06.08.24:835][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.22-06.08.24:835][  0]LogMemory: Process Physical Memory: 103.43 MB used, 103.44 MB peak
+[2020.01.22-06.08.24:835][  0]LogMemory: Process Virtual Memory: 89.94 MB used, 89.94 MB peak
+[2020.01.22-06.08.24:835][  0]LogMemory: Physical Memory: 7257.28 MB used,  8938.47 MB free, 16195.75 MB total
+[2020.01.22-06.08.24:836][  0]LogMemory: Virtual Memory: 4634.25 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.01.22-06.08.24:845][  0]LogInit: Using OS detected language (en-US).
+[2020.01.22-06.08.24:845][  0]LogInit: Using OS detected locale (en-CA).
+[2020.01.22-06.08.24:846][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.22-06.08.25:233][  0]LogStreaming: Display: Took  0.388s to InitEngineTextLocalization.
+[2020.01.22-06.08.25:234][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.22-06.08.25:278][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.22-06.08.25:278][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.22-06.08.25:440][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.01.22-06.08.25:440][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.22-06.08.25:499][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.01.22-06.08.25:499][  0]LogD3D11RHI:       4043/0/8097 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.22-06.08.25:503][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.22-06.08.25:503][  0]LogD3D11RHI:       0/0/8097 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.22-06.08.25:503][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.22-06.08.25:509][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.22-06.08.25:509][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.22-06.08.25:509][  0]LogWindows: EnumDisplayDevices:
+[2020.01.22-06.08.25:509][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.01.22-06.08.25:509][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.01.22-06.08.25:509][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.01.22-06.08.25:510][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.01.22-06.08.25:510][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.22-06.08.25:510][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.01.22-06.08.25:510][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.01.22-06.08.25:510][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.01.22-06.08.25:510][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.01.22-06.08.25:550][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.22-06.08.25:564][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.22-06.08.25:882][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.01.22-06.08.25:892][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.01.22-06.08.25:903][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.01.22-06.08.25:914][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.01.22-06.08.25:925][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.01.22-06.08.25:937][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.01.22-06.08.25:948][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.01.22-06.08.25:959][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.01.22-06.08.25:963][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.22-06.08.26:031][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.01.22-06.08.26:087][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.22-06.08.26:087][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.22-06.08.26:134][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.22-06.08.26:134][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.22-06.08.26:151][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.01.22-06.08.26:162][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.01.22-06.08.26:173][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.01.22-06.08.26:184][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.01.22-06.08.26:225][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.01.22-06.08.26:225][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.01.22-06.08.26:226][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.22-06.08.26:260][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Intermediate/Shaders/WorkingDirectory/10164/).
+[2020.01.22-06.08.26:260][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Megan/AppData/Local/Temp/UnrealShaderWorkingDir/1C8E767E4366826D4CC4728A72C3988A/'.
+[2020.01.22-06.08.26:261][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.22-06.08.26:261][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.22-06.08.26:261][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.22-06.08.26:788][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.22-06.08.26:838][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Megan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.01.22-06.08.26:838][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Megan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.01.22-06.08.26:838][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.22-06.08.26:838][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.22-06.08.26:838][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.22-06.08.26:838][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.22-06.08.26:856][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.22-06.08.26:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.22-06.08.26:856][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.22-06.08.26:868][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Megan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.22-06.08.26:868][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.22-06.08.26:868][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.22-06.08.26:891][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.22-06.08.26:892][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.22-06.08.26:893][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.22-06.08.26:971][  0]LogAssetRegistry: FAssetRegistry took 0.0319 seconds to start up
+[2020.01.22-06.08.27:290][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.22-06.08.27:425][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.01.22-06.08.27:427][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.01.22-06.08.27:427][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.22-06.08.27:427][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.22-06.08.27:427][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.01.22-06.08.27:439][  0]LogNetVersion: ProjectAmazon 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3330745661)
+[2020.01.22-06.08.27:908][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.071904 seconds
+[2020.01.22-06.08.27:913][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.01.22-06.08.27:913][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2020.01.22-06.08.27:913][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.22-06.08.28:621][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.22-06.08.28:646][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.22-06.08.29:247][  0]SourceControl: Source control is disabled
+[2020.01.22-06.08.29:247][  0]SourceControl: Source control is disabled
+[2020.01.22-06.08.29:248][  0]SourceControl: Source control is disabled
+[2020.01.22-06.08.29:248][  0]SourceControl: Source control is disabled
+[2020.01.22-06.08.29:408][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.22-06.08.29:574][  0]LogOcInput: OculusInput pre-init called
+[2020.01.22-06.08.29:746][  0]LogEngine: Initializing Engine...
+[2020.01.22-06.08.29:747][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.01.22-06.08.29:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.22-06.08.29:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.22-06.08.29:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.22-06.08.29:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.22-06.08.29:957][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.22-06.08.29:964][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.22-06.08.30:009][  0]LogInit: XAudio2 using 'Speakers (2- Logitech G35 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.01.22-06.08.30:035][  0]LogInit: FAudioDevice initialized.
+[2020.01.22-06.08.30:036][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.22-06.08.30:108][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Megan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.01.22-06.08.30:114][  0]LogInit: Texture streaming: Enabled
+[2020.01.22-06.08.30:141][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.22-06.08.30:153][  0]LogInit: Transaction tracking system initialized
+[2020.01.22-06.08.30:168][  0]BlueprintLog: New page: Editor Load
+[2020.01.22-06.08.30:254][  0]LocalizationService: Localization service is disabled
+[2020.01.22-06.08.30:655][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/' took 0.01s
+[2020.01.22-06.08.30:655][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.22-06.08.30:655][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.22-06.08.30:655][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.01.22-06.08.30:655][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.22-06.08.30:655][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.22-06.08.30:655][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.22-06.08.30:655][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.22-06.08.30:749][  0]SourceControl: Source control is disabled
+[2020.01.22-06.08.30:750][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 F:/Programs/UnrealEngine/UE_4.21/FeaturePacks/StarterContent.upack)
+[2020.01.22-06.08.30:752][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.01.22-06.08.30:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.01.22-06.08.30:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.01.22-06.08.30:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.01.22-06.08.30:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.01.22-06.08.30:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.01.22-06.08.30:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.01.22-06.08.30:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.01.22-06.08.30:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.01.22-06.08.30:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.01.22-06.08.30:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.01.22-06.08.30:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.01.22-06.08.30:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.01.22-06.08.30:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.01.22-06.08.30:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.01.22-06.08.30:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.01.22-06.08.30:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.01.22-06.08.30:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.01.22-06.08.30:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Fire01.uasset"
+[2020.01.22-06.08.30:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.01.22-06.08.30:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.01.22-06.08.30:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.01.22-06.08.30:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Light01.uasset"
+[2020.01.22-06.08.30:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.01.22-06.08.30:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Light02.uasset"
+[2020.01.22-06.08.30:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.01.22-06.08.30:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.01.22-06.08.30:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.01.22-06.08.30:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.01.22-06.08.30:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.01.22-06.08.30:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.01.22-06.08.30:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.01.22-06.08.30:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.01.22-06.08.30:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.01.22-06.08.30:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Steam01.uasset"
+[2020.01.22-06.08.30:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.01.22-06.08.30:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.01.22-06.08.30:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.01.22-06.08.30:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.01.22-06.08.30:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.01.22-06.08.30:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.01.22-06.08.30:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.01.22-06.08.30:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.01.22-06.08.30:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.01.22-06.08.30:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.01.22-06.08.30:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.01.22-06.08.30:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.01.22-06.08.30:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.01.22-06.08.30:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.01.22-06.08.30:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.01.22-06.08.30:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.01.22-06.08.30:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.01.22-06.08.31:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.01.22-06.08.31:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.01.22-06.08.31:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.01.22-06.08.31:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.01.22-06.08.31:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.01.22-06.08.31:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Maps/StarterMap.umap"
+[2020.01.22-06.08.31:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.01.22-06.08.31:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.01.22-06.08.31:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.01.22-06.08.31:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.01.22-06.08.31:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.01.22-06.08.31:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.01.22-06.08.31:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.01.22-06.08.31:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.01.22-06.08.31:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.01.22-06.08.31:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.01.22-06.08.31:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.01.22-06.08.31:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.01.22-06.08.31:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.01.22-06.08.31:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.01.22-06.08.31:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.01.22-06.08.31:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.01.22-06.08.31:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.01.22-06.08.31:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.01.22-06.08.31:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.01.22-06.08.31:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.01.22-06.08.31:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.01.22-06.08.31:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.01.22-06.08.31:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.01.22-06.08.31:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.01.22-06.08.31:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.01.22-06.08.31:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.01.22-06.08.31:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.01.22-06.08.31:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.01.22-06.08.31:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.01.22-06.08.31:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.01.22-06.08.31:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.01.22-06.08.31:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.01.22-06.08.31:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.01.22-06.08.31:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.01.22-06.08.31:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.01.22-06.08.31:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.01.22-06.08.31:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.01.22-06.08.31:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.01.22-06.08.31:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.01.22-06.08.31:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.01.22-06.08.31:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.01.22-06.08.31:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.01.22-06.08.31:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.01.22-06.08.31:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.01.22-06.08.31:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.01.22-06.08.31:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.01.22-06.08.31:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.01.22-06.08.31:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.01.22-06.08.31:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.01.22-06.08.31:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.01.22-06.08.31:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.01.22-06.08.31:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.01.22-06.08.31:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.01.22-06.08.31:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.01.22-06.08.31:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.01.22-06.08.31:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.01.22-06.08.31:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.01.22-06.08.31:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.01.22-06.08.31:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.01.22-06.08.31:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.01.22-06.08.31:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.01.22-06.08.31:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.01.22-06.08.31:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.01.22-06.08.31:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.01.22-06.08.31:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.01.22-06.08.31:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_Door.uasset"
+[2020.01.22-06.08.31:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.01.22-06.08.31:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.01.22-06.08.31:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.01.22-06.08.31:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.01.22-06.08.31:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.01.22-06.08.31:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.01.22-06.08.31:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.01.22-06.08.31:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.01.22-06.08.31:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.01.22-06.08.31:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.01.22-06.08.31:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.01.22-06.08.31:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.01.22-06.08.31:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.01.22-06.08.31:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.01.22-06.08.31:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.01.22-06.08.31:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.01.22-06.08.31:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.01.22-06.08.31:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.01.22-06.08.31:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.01.22-06.08.31:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.01.22-06.08.31:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.01.22-06.08.31:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.01.22-06.08.31:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.01.22-06.08.31:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.01.22-06.08.31:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.01.22-06.08.31:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.01.22-06.08.31:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.01.22-06.08.31:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.01.22-06.08.31:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.01.22-06.08.31:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.01.22-06.08.31:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.01.22-06.08.31:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.01.22-06.08.31:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.01.22-06.08.31:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.01.22-06.08.31:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.01.22-06.08.31:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.01.22-06.08.31:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.01.22-06.08.31:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.01.22-06.08.31:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.01.22-06.08.31:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.01.22-06.08.31:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.01.22-06.08.31:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.01.22-06.08.31:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.01.22-06.08.31:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.01.22-06.08.31:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.01.22-06.08.31:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.01.22-06.08.31:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.01.22-06.08.31:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.01.22-06.08.31:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.01.22-06.08.31:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.01.22-06.08.31:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.01.22-06.08.31:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.01.22-06.08.31:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.01.22-06.08.31:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.01.22-06.08.31:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.01.22-06.08.31:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.01.22-06.08.31:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.01.22-06.08.31:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.01.22-06.08.31:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.01.22-06.08.31:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.01.22-06.08.31:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.01.22-06.08.31:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.01.22-06.08.31:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.01.22-06.08.31:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.01.22-06.08.31:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.01.22-06.08.31:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.01.22-06.08.31:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.01.22-06.08.31:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.01.22-06.08.31:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.01.22-06.08.31:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.01.22-06.08.31:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.01.22-06.08.31:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.01.22-06.08.31:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.01.22-06.08.31:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.01.22-06.08.31:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.01.22-06.08.31:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.01.22-06.08.31:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.01.22-06.08.32:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.01.22-06.08.32:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.01.22-06.08.32:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.01.22-06.08.32:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.01.22-06.08.32:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.01.22-06.08.32:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.01.22-06.08.32:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.01.22-06.08.32:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.01.22-06.08.32:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.01.22-06.08.32:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.01.22-06.08.32:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.01.22-06.08.32:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.01.22-06.08.32:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.01.22-06.08.32:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.01.22-06.08.32:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.01.22-06.08.32:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.01.22-06.08.32:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.01.22-06.08.32:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.01.22-06.08.32:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.01.22-06.08.32:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.01.22-06.08.32:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.01.22-06.08.32:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.01.22-06.08.32:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.01.22-06.08.32:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.01.22-06.08.32:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.01.22-06.08.32:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.01.22-06.08.32:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.01.22-06.08.32:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.01.22-06.08.32:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.01.22-06.08.32:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.01.22-06.08.32:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.01.22-06.08.32:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.01.22-06.08.32:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.01.22-06.08.32:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.01.22-06.08.32:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.01.22-06.08.32:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.01.22-06.08.32:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.01.22-06.08.32:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.01.22-06.08.32:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.01.22-06.08.32:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.01.22-06.08.32:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.01.22-06.08.32:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.01.22-06.08.32:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.01.22-06.08.32:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.01.22-06.08.32:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.01.22-06.08.32:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.01.22-06.08.32:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.01.22-06.08.32:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.01.22-06.08.32:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.01.22-06.08.32:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.01.22-06.08.32:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.01.22-06.08.32:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.01.22-06.08.33:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.01.22-06.08.33:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.01.22-06.08.33:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.01.22-06.08.33:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.01.22-06.08.33:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.01.22-06.08.33:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.01.22-06.08.33:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.01.22-06.08.33:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.01.22-06.08.33:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.01.22-06.08.33:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.01.22-06.08.33:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.01.22-06.08.33:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.01.22-06.08.33:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.01.22-06.08.33:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.01.22-06.08.33:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.01.22-06.08.33:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.01.22-06.08.33:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.01.22-06.08.33:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.01.22-06.08.33:200][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.01.22-06.08.33:296][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Floor_400x400463E3C0C4F165FCF40DB7D99356DCC59.tmp' to '../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.01.22-06.08.33:298][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.01.22-06.08.33:299][  0]Cmd: MAP LOAD FILE="../../../../../../Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.22-06.08.33:299][  0]LightingResults: New page: Lighting Build
+[2020.01.22-06.08.33:300][  0]MapCheck: New page: Map Check
+[2020.01.22-06.08.33:300][  0]LightingResults: New page: Lighting Build
+[2020.01.22-06.08.33:682][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.22-06.08.33:693][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.22-06.08.33:714][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.22-06.08.33:714][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2020.01.22-06.08.33:714][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.415
+[2020.01.22-06.08.33:812][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.22-06.08.33:818][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.22-06.08.33:826][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.22-06.08.33:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.22-06.08.33:860][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.22-06.08.33:862][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.22-06.08.33:920][  0]LogRenderer: Reallocating scene render targets to support 1484x1324 Format 10 NumSamples 1 (Frame:1).
+[2020.01.22-06.08.34:078][  0]LogLoad: (Engine Initialization) Total time: 10.61 seconds
+[2020.01.22-06.08.34:078][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.22-06.08.34:488][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.22-06.08.35:078][  2]LogAssetRegistry: Asset discovery search completed in 8.1286 seconds
+[2020.01.22-06.08.35:083][  2]LogCollectionManager: Loaded 0 collections in 0.000842 seconds
+[2020.01.22-06.08.35:118][  2]LogFileCache: Scanning file cache for directory 'F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Saved/Collections/' took 0.01s
+[2020.01.22-06.08.35:118][  2]LogFileCache: Scanning file cache for directory 'F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/Developers/Megan/Collections/' took 0.01s
+[2020.01.22-06.08.35:118][  2]LogFileCache: Scanning file cache for directory 'F:/Projects/Unreal/ProjectAmazon/ProjectAmazon/Content/Collections/' took 0.01s
+[2020.01.22-06.08.35:118][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.22-06.08.35:118][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000098 seconds (updated 0 objects)
+[2020.01.22-06.08.37:987][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-06.08.38:883][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-06.08.43:548][957]LogSlate: Window 'Source Control Login' being destroyed
